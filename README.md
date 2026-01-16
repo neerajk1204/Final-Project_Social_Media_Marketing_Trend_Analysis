@@ -11,6 +11,7 @@ This project focuses on analyzing social media marketing data to identify trends
 - Support marketing strategy optimization using data insights.
 
 **Dataset Description**
+
 The dataset contains information related to social media marketing performance, including:
 
 - Platform name (e.g., Instagram, Facebook, Twitter, etc.).

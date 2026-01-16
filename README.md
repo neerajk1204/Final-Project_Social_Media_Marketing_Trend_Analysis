@@ -1,6 +1,6 @@
 # Final-Project_Social_Media_Marketing_Trend_Analysis
 The project focuses on data loading, pre-processing, and exploratory data analysis (EDA) of a social media marketing dataset using Python. The goal is to understand data structure, clean and prepare the dataset, and uncover meaningful patterns through visual analysis.
-                                                                           Final Report on Social_Media_Marketing_Trend_Analysis
+                                                                           **Final Report on Social_Media_Marketing_Trend_Analysis**
 This project focuses on analyzing social media marketing data to identify trends, user engagement patterns, and platform performance.The goal is to help marketers and businesses make data-driven decisions by understanding which strategies work best across different platforms and campaigns.Through structured data cleaning, exploratory data analysis (EDA), and visualizations, this project transforms raw marketing data into actionable insights.
 
 Objectives
